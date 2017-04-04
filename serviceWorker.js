@@ -1,8 +1,7 @@
-var CACHE_NAME = 'gih-cache-v4';
+var CACHE_NAME = 'NHS-App';
 var CACHED_URLS = [
-  'offline.html',
-  'mystyles.css',
-  'dino.png'
+  'index.html',
+  'css/styles.css',
 ];
 
 
